@@ -1,22 +1,23 @@
 .bigtext{
-  font-weight: Normal;
+  font-weight: Bold;
   color: white;
   font-size: 50px;
 }
 body{
   text-align: center;
   background-color: black;
-  font-family: Verdana
+  font-family: Verdana, Sans-serif
 }
 .excursion{
   font-size: 16px;
   color: Aquamarine;
 }
 h2{
-  font-weight: 300;
+  font-weight: bold;
   font-size: 42px;
   color: white
 }
 p{
   color: grey;
+  font-size: 21px
 }
